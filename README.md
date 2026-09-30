@@ -10,7 +10,7 @@ The page and its assets are encrypted together with StatiCrypt 3.5.4. The editab
 - [Fade In](https://mattien1984.github.io/tc-framework/fade-in/): seven cursor-controlled stages reveal the four center foundations individually, then the three complete outer rings. Upcoming layers stay at 8% opacity.
 - [Zoom In](https://mattien1984.github.io/tc-framework/zoom-in/): the same seven stages build outward from You Create Time, with a smaller center and pure-white titles.
 
-Both versions add a breathing glow and an expanding, fading pulse every two seconds from the active center edge while holding steps 1–4.
+Both versions add a subtle breathing glow and a soft expanding, fading pulse every three seconds from the active center edge while holding steps 1–4.
 
 ## Updating
 
