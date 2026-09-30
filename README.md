@@ -7,8 +7,8 @@ The page and its assets are encrypted together with StatiCrypt 3.5.4. The editab
 ## Versions
 
 - [Original framework](https://mattien1984.github.io/tc-framework/)
-- [Fade In](https://mattien1984.github.io/tc-framework/fade-in/): an invisible horizontal cursor control brings complete rings from faded to full opacity.
-- [Zoom In](https://mattien1984.github.io/tc-framework/zoom-in/): an invisible horizontal cursor control builds outward in complete rings, starting with a smaller center and pure-white titles.
+- [Fade In](https://mattien1984.github.io/tc-framework/fade-in/): seven cursor-controlled stages reveal the four center foundations individually, then the three complete outer rings. Upcoming layers stay at 8% opacity.
+- [Zoom In](https://mattien1984.github.io/tc-framework/zoom-in/): the same seven stages build outward from You Create Time, with a smaller center and pure-white titles.
 
 ## Updating
 
