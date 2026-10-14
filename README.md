@@ -10,6 +10,7 @@ The page and its assets are encrypted together with StatiCrypt 3.5.4. The editab
 - [Fade In](https://mattien1984.github.io/tc-framework/fade-in/): seven cursor-controlled stages reveal the four center foundations individually, then the three complete outer rings. Upcoming layers stay at 8% opacity.
 - [Zoom In](https://mattien1984.github.io/tc-framework/zoom-in/): the same seven stages build outward from You Create Time, with a smaller center and pure-white titles.
 - [Live](https://mattien1984.github.io/tc-framework/live/): twenty-three keyboard-controlled scenes. All the artwork is visible from the start, labelled only You Create Time. Each arrow-key press adds one label: the three center rings, then each ring's sections clockwise from the top followed by its level name in Title Case, and finally the Belief Horizon. Blocks not reached yet wait at 30% opacity, and the block for the current scene glows, starting with You Create Time.
+- [Center Options](https://mattien1984.github.io/tc-framework/center-options/): the Live presentation with five treatments of the center to compare: Current, Orbit, Spectrum, Facets and Spiral. Each new option adds movement, spreads the three center phrases around the circle and brings in more colour. Press 1–5 or use the buttons to switch; H hides the buttons. Add #orbit, #spectrum, #facets or #spiral to the address to open one directly.
 
 Fade In, Zoom In and Live add a subtle breathing glow and a soft expanding, fading pulse every three seconds from the active center edge while holding steps 1–4.
 
